@@ -6,7 +6,7 @@
 
 | My Statistics                                                                                                                                                            | Main Languages                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Felipe's github stats](https://github-readme-stats.vercel.app/api?username=FelipeLustosa&show_icons=true&hide_border=true&count_private=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeLustosa&langs_count=10&count_private=true&hide_border=true&theme=dracula&layout=compact) |
+| ![Felipe's github stats](https://github-readme-stats.vercel.app/api?username=FelipeTiLustosa&show_icons=true&hide_border=true&count_private=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeTiLustosa&langs_count=10&count_private=true&hide_border=true&theme=dracula&layout=compact) |
 
 ### Skills
 ### Languages
@@ -19,6 +19,9 @@
 
 ### Frameworks & Libraries
 [![spring](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)]()
+[![spring-security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
+[![spring-data](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
+[![hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)]()
 [![rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)]()
 [![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
 [![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
